@@ -85,7 +85,7 @@ The goal was to deliver a functional MVP within a limited time while collaborati
 I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving and interview readiness.
 
 - Practicing on LeetCode with focus on fundamentals  
-- Topics include Arrays, Strings, Linked Lists, Stack, Queue, Trees (in progress)
+- Topics include Arrays, Strings, Sorting, Recursion,Linked Lists, Stack, Queue, Trees,Graphs,DP (in progress)
 
 🔗 LeetCode Profile: https://leetcode.com/u/parthbehal16/
 
