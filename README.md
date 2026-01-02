@@ -4,7 +4,7 @@
 🎓 B.Tech Student | React | Node.js | MongoDB  
 
 I enjoy building real-world web applications from scratch and learning by doing.  
-Currently focused on frontend development, backend APIs, and strengthening my problem-solving skills.
+Currently focused on frontend development, backend APIs, and problem-solving.
 
 I’m actively looking for **internship opportunities at early-stage startups** where I can learn fast and contribute meaningfully.
 
@@ -27,7 +27,7 @@ I’m actively looking for **internship opportunities at early-stage startups** 
 - MongoDB
 
 **Tools & Platforms**
-- Git & GitHub
+- Git, GitHub
 - Netlify, Vercel
 - VS Code
 
@@ -52,7 +52,7 @@ A full-stack web application to manage recipes with add, edit, delete, and searc
 A real-time chat application focused on frontend interaction and live communication.
 
 - Real-time messaging  
-- Practical JavaScript and component-based design  
+- Component-based frontend design  
 - Focus on clean UI and user experience  
 
 **Tech:** JavaScript / React (update if Socket.io used)  
@@ -63,46 +63,62 @@ A real-time chat application focused on frontend interaction and live communicat
 ## 🏆 Hackathon Project
 
 ### ⚡ Econinjas — Smart India Hackathon (SIH)
-A hackathon project built as part of **Smart India Hackathon (SIH)** under strict time constraints with a team.
-
-The goal was to deliver a functional MVP within a limited time while collaborating effectively as a team.
+A team-based hackathon project developed under strict time constraints as part of **Smart India Hackathon (SIH)**.
 
 **My Role & Contributions**
 - Frontend development and UI implementation  
 - Chatbot integration for user interaction and assistance  
 - Backend management and API handling  
-- Assisted with deployment and integration  
+- Assisted with deployment and system integration  
 
 🔗 Repository: https://github.com/yadavkashish/SIH-ECONINJAS  
 🔗 Live Demo: https://econinjas.netlify.app/
 
-> This was a team project. I contributed actively to frontend, chatbot integration, and backend management.
+> This was a collaborative team project. My contributions focused on frontend, chatbot integration, and backend management.
+
+---
+
+## 🧪 Research & Innovation
+
+### 🧠 AI-Based Stress Monitoring System (Patent)
+**Jan 2025 – Oct 2025**
+
+Developed a health-tech innovation aimed at estimating user stress levels by analyzing
+behavioral patterns and human–computer interaction signals.
+
+- Designed system logic for stress estimation  
+- Worked on AI-assisted analysis concepts  
+- Focused on mental health and user well-being  
+- Submitted for **patent publication**
+
+**Focus Areas:**  
+AI Assistance • Human–Computer Interaction • Mental Health Technology  
+
+> Technical and implementation details are restricted due to patent confidentiality.
 
 ---
 
 ## 🧠 Problem Solving (DSA)
 
-I regularly practice **Data Structures & Algorithms** to strengthen my problem-solving and interview readiness.
+I practice **Data Structures & Algorithms** regularly to strengthen problem-solving and interview readiness.
 
-- Practicing on LeetCode with focus on fundamentals  
-- Topics include Arrays, Strings, Sorting, Recursion,Linked Lists, Stack, Queue, Trees,Graphs,DP (in progress)
+- Practicing on LeetCode with a focus on fundamentals  
+- Topics include Arrays, Strings, Linked Lists, Stack, Queue, Trees (in progress)
 
 🔗 LeetCode Profile: https://leetcode.com/u/parthbehal16/
-
-> DSA supports my engineering thinking and complements my project-based learning.
 
 ---
 
 ## 📚 Academic Focus
 I prioritize **hands-on, project-based learning** over routine academic assignments.  
-Only projects involving real implementation, deployment, or practical problem-solving are showcased.
+Only work involving real implementation, innovation, or practical problem-solving is showcased.
 
 ---
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: https://linkedin.com/in/parth-behal225489276
-- 🐙 GitHub: https://github.com/Parthbehal
+- 💼 LinkedIn: https://linkedin.com/in/parth-behal225489276  
+- 🐙 GitHub: https://github.com/Parthbehal  
 
 ---
 
