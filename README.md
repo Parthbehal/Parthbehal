@@ -6,7 +6,7 @@
 I enjoy building **real-world web applications from scratch** and learning by doing.  
 Currently focused on **frontend engineering, backend APIs**, and **problem-solving**.
 
-🌐 **Portfolio:** [parth-behal-portfolio.netlify.app](https://parth-behal-portfolio.netlify.app)
+🌐 **Portfolio:** [parth-behal-portfolio.netlify.app](https://portfolio-one-lilac-rm5lzt9qlb.vercel.app/)
 
 
 I’m actively looking for **internship opportunities at early-stage startups** where I can learn fast and contribute meaningfully.
