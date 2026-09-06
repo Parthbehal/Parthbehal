@@ -1,7 +1,7 @@
 # Hi, I'm Parth 👋
 
-🚀 **Frontend / Full-Stack Developer**  
-🎓 B.Tech Computer Science Student | React | Node.js | MongoDB  
+🚀 Full-Stack Developer**  
+🎓 B.Tech Information Technology Student | React | Node.js | MongoDB  
 
 I enjoy building **real-world web applications from scratch** and learning by doing.  
 Currently focused on **frontend engineering, backend APIs**, and **problem-solving**.
